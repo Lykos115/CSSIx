@@ -1,0 +1,12 @@
+h1 {
+  color: darkred;
+  font-family: cursive;
+}
+.bluetext{    /* <-class */
+  color: navy;
+  font-family: fantasy;
+}
+
+#fantasy{     /* <- ID */
+  font-family: fantasy;
+}
